@@ -1,0 +1,27 @@
+# Dependencies
+node_modules/
+
+# Session files (Sabse Zaroori - Ise kabhi upload na karein)
+session.data.json
+auth_info/
+session/
+sessions/
+*.data.json
+
+# Environment variables
+.env
+config.env
+
+# Database
+database.json
+*.sqlite
+
+# Logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# System files
+.DS_Store
+Thumbs.db
